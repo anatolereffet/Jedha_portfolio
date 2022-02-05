@@ -1,5 +1,5 @@
 # Objective 
-This project bases itself off the Kaggle competition [here](https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc) 
+This project is based on the Kaggle competition [here](https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc) 
 
 We're looking to highlight the factors usually leading to a second date.
 # Methods & Tools 

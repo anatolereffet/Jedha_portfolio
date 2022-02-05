@@ -1,5 +1,5 @@
 # Objective 
-Create on the behalf of Kayak an application to recommend where people should plan their next holidays based on weather and hotel ratings.
+Create on behalf of Kayak an application to recommend where people should plan their next holidays based on weather and hotel ratings.
 
 ## Main goals 🎯
 - Use an **API** to get some information about the weather and coordinates of each city

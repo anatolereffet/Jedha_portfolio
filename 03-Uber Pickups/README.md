@@ -1,5 +1,5 @@
 # Objective 
-On behalf of Uber, create an app that would recommend hot-zones in major city to be in at any given time of the day. 
+On behalf of Uber, create an app that would recommend hot-zones in major cities to be in at any given time of the day. 
 
 ## Main goals 🎯
 - Create an algorithm to find hot zones in the cities
